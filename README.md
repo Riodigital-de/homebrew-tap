@@ -8,8 +8,8 @@ A [Homebrew tap] for various tools used at RIO.
 
 Tap this repository:
 
-    brew tap riodigital-de/cask
+    brew tap riodigital-de/tap
 
 Install the packages it contains like any other Homebrew package:
 
-    brew install foobarplus
+    brew cask install foobarplus
